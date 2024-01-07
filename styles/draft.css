@@ -1,0 +1,34 @@
+/* shared styles */
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/* banner releted styles */
+.banner {
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-content {
+    text-align: right;
+    margin-left: auto;
+    margin-top: 216px;
+    margin-right: 230px;
+    width: 525px;
+}
+
+.banner-heading {
+    /* width: 525px; */
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.banner-descript {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    /* width: 494px; */
+}
